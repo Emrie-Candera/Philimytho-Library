@@ -1,6 +1,6 @@
 site_name: Philimytho Library
 site_description: collection of information on Philippine folklore and mythology
-site_url: https://change_me.io/ # Change this to your site URL
+site_url: https://emrie-candera.github.io/philimytho-library
 
 theme:
     name: 'material'
