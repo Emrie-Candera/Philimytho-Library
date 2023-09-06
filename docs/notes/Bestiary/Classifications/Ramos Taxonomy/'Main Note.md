@@ -1,14 +1,14 @@
-##### [Maximo Ramos](Maximo%20Ramos.md)
-In his book [Creatures of Philippine Lower Mythology](../../../Library/Reference%20Books/Creatures%20of%20Philippine%20Lower%20Mythology.md), Ramos attempts a taxonomic classification of these creatures. In the foreword, [Juan R. Francisco](Juan%20R.%20Francisco.md) writes that this is the first attempt to systematize the identities of the Philippine mythological beings for folklore scholarship. 
+##### [[Maximo Ramos]]
+In his book [[../../../Library/Reference Books/Creatures of Philippine Lower Mythology|Creatures of Philippine Lower Mythology]], Ramos attempts a taxonomic classification of these creatures. In the foreword, [[Juan R. Francisco]] writes that this is the first attempt to systematize the identities of the Philippine mythological beings for folklore scholarship. 
 
-It started with his professor [Dr. Wayland D. Hand](Dr.%20Wayland%20D.%20Hand.md), who guided this student in his attempt to classify the *entire pre-Hispanic Philippine pantheon* for the end goal of determining what an [aswang](../../Lower%20Mythology/Aswangs.md) is. It is important to note that [Dr. Hand](Dr.%20Wayland%20D.%20Hand.md) was an American Folklorist, so the folklore studies passed down and advised to his students were western, which shows in [Ramos'](Maximo%20Ramos.md) works. He justifies the European categories by arguing its usefulness in relating Philippine folklore to folklore scholarship in the rest of the world. 
+It started with his professor [[Dr. Wayland D. Hand]], who guided this student in his attempt to classify the *entire pre-Hispanic Philippine pantheon* for the end goal of determining what an [[../../Lower Mythology/Aswangs|aswang]] is. It is important to note that [[Dr. Wayland D. Hand|Dr. Hand]] was an American Folklorist, so the folklore studies passed down and advised to his students were western, which shows in [[Maximo Ramos|Ramos']] works. He justifies the European categories by arguing its usefulness in relating Philippine folklore to folklore scholarship in the rest of the world. 
 
-He also focused his works on [Lower Mythology](../../Lower%20Mythology/'Main%20Note.md) which are "beings which, while in fact having no objective reality, are regarded in folk traditions to actually existent, to be generally maleficent and for a variety of reasons to rank below the creatures of higher mythology (ghosts, ancestral spirits, angels, deities, upper divinities)" ^[Dr. Wayland D. Hand](Dr.%20Wayland%20D.%20Hand.md)'s Lectures on the Creatures of Lower Mythology]
+He also focused his works on [[../../Lower Mythology/'Main Note|Lower Mythology]] which are "beings which, while in fact having no objective reality, are regarded in folk traditions to actually existent, to be generally maleficent and for a variety of reasons to rank below the creatures of higher mythology (ghosts, ancestral spirits, angels, deities, upper divinities)" ^[[[Dr. Wayland D. Hand]]'s Lectures on the Creatures of Lower Mythology]
 
 His study focused not on the names, but on traits and functions
 
-###### 12 categories by [Maximo Ramos](Maximo%20Ramos.md) 
-1. [Demons](Demons.md)
+###### 12 categories by [[Maximo Ramos]] 
+1. [[Demons]]
 	- corporeal or incorporeal beings believed to terrify persons or to harass them with nightmares, diseases and similar misfortunes
 1. Dragons
 2. Dwarfs
